@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/3OlFTvu](http://bit.ly/3OlFTvu)
 
-- ⚡ Fun fact **Jack of all trades** 
+- ⚡ Fun fact **"Jack of all trades"**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
