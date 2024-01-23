@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/arunodhai" target="blank"><img src="https://img.shields.io/twitter/follow/arunodhai?logo=twitter&style=for-the-badge" alt="arunodhai" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, Solidity**
+- 🌱 I’m currently learning **DevOps Tools, AWS cloud, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunodhai](https://github.com/Arunodhai)
 
-- 💬 Ask me about **Python , Java, Blockchain, anything related to tech ,and movies.**
+- 💬 Ask me about **Python , Java, DevOps, Blockchain, anything related to tech ,and movies.**
 
 - 📫 How to reach me **arunodhai007@gmail.com**
 
